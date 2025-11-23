@@ -3,7 +3,7 @@
 ## Technology Stack
 
 | Technology | Version |
-|------------|---------|
+|------------|---------| 
 | **Java** | 21 |
 | **Spring Boot** | 3.3.5 |
 | **Spring Data JPA** | 3.3.5 (via Spring Boot) |
